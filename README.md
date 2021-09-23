@@ -5,6 +5,9 @@ https://youtu.be/8t0vNu2fCCM
 
 ## Available Scripts
 
+Project demo :
+https://distracted-swanson-a8a795.netlify.app/
+
 In the project directory, you can run:
 
 ### `yarn start`
